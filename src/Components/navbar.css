@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #007bff;
+    color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+.time-holder{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
